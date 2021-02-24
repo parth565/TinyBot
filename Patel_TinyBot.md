@@ -21,7 +21,8 @@ that will keep track of who has won the most games within that server and so on.
 ## Background
 
 ***Building***
-- Will be written in python
+- Will be written in python and JavaScript
+- Corporate Python and JavaScript using pyjs
 - Need a Discord Developers account
 - Need to create a bot on discord first then code it.
 - Need to create a discord server to test the bot
@@ -31,4 +32,4 @@ that will keep track of who has won the most games within that server and so on.
 - You can also use the website called repl.it which is an online ide as well as a hosting service which can also be used to run our code.	
 
 ## Required Resources
-- _Hardware and software resource required_
+Discord, VScode
